@@ -1,1 +1,1 @@
-These are groups the current user is a part of
+A script that changes the owner of the file
