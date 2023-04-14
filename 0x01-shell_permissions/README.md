@@ -1,1 +1,1 @@
-This is for the shell permisson task
+This is for a script that prints the current user
