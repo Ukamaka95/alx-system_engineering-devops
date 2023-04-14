@@ -1,1 +1,1 @@
-This is for a script that prints the current user
+These are groups the current user is a part of
